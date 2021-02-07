@@ -34706,7 +34706,7 @@ s.a.c.scb(0,s.gWu()+s.gWy()+s.gWe()+s.gWJ()+s.gWd()+s.gWK())},
 $S:3}
 F.a3v.prototype={
 $1:function(a){var s=this.a
-s.a=s.a+(J.l8(a,0,1)+". ")},
+s.a=s.a+(J.l8(a,0,1).toUpperCase()+". ")},
 $S:151}
 F.a3w.prototype={
 $1:function(a){return this.a.lU(a)},
